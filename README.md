@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Éric Vinícius</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate Full Stack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **SQL, node.js, express.js**
+- 🌱 I’m currently learning **Java, node.js, express.js**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-eric-vinicius.netlify.app/](https://portfolio-eric-vinicius.netlify.app/)
 
