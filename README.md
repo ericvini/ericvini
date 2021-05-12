@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, node.js, express.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-eric-vinicius.netlify.app/](https://portfolio-eric-vinicius.netlify.app/)
+- 👨‍💻The front end projects are in [https://portfolio-eric-vinicius.netlify.app/](https://portfolio-eric-vinicius.netlify.app/)
 
 - 📫 How to reach me **ericcobain3@gmail.com**
 
