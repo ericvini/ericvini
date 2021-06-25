@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Éric Vinícius</h1>
 <h3 align="center">A passionate Full Stack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Java, node.js, express.js**
+- 🌱 I’m currently learning **C#, node.js, express.js**
 
 - 👨‍💻Check Out Some of My Works [https://ericdeveloper.netlify.app/](https://ericdeveloper.netlify.app/)
 
